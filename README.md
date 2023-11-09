@@ -4,6 +4,15 @@
 
 Originally coming from an Oracle HCM Implementation and data analyst background I am now looking to perfect my skills in the Blockchain and Web Developent space
 
+5 Free Learning resources i am currently using to become a smart contract auditor:
+
+https://cmichel.io/how-to-become-a-smart-contract-auditor/ <br>
+https://www.youtube.com/watch?v=gyMwXuJrbJQ <br>
+https://www.damnvulnerabledefi.xyz/ <br>
+https://ethernaut.openzeppelin.com/ <br>
+https://secureum.substack.com/ <br>
+https://code4rena.com/ https://www.youtube.com/watch?v=-469Gcye-ZE <br>
+
    <p align="left">
      <a href="https://github.com/GeneralLex?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GeneralLex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -28,6 +37,7 @@ Originally coming from an Oracle HCM Implementation and data analyst background 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <br />
 
 #
