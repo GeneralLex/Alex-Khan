@@ -44,4 +44,4 @@ https://code4rena.com/ https://www.youtube.com/watch?v=-469Gcye-ZE <br>
 
 <details>
  <summary><h3>👨‍💻 Alex's Coding Journey</h3></summary>
-   I am currently in the process of building a few websites that show different functions of HTML, CSS and JS. I defeinitely prefer being hands on when it comes to coding its the best way to learn in my opinion.
+   I am currently in the process of building a few websites that show different functions of HTML, CSS and JS. I defeinitely prefer being hands on when it comes to coding its the best way to learn in my opinion. I will start to create a journal detailing all this.
