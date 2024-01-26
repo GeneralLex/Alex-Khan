@@ -1,3 +1,5 @@
 17-Jan-2024 - Today I have come across a website called https://cryptozombies.io/ and its a really fun way to start learning solidity and how blockchain can be used for video games. Completed chapter one today already and now on chapter 2.
 18-Jan-2024 - Completed chapter 2 of cryptoZombies. Now in the process of completing chapter 3 with more advanced solifity techniques
 20-Jan-2024 - Completed chapter 3 of cryptoZombies where we learned to use functional modifiers and other advance solidity techniques i.e. view vs pure, storage vs memory and function restirctions e.g. private, interal, external, public & inheritance, finshing with a for loop and if statement.
+22-Jan-2024 - Completed chapter 4 setting up the batt;e system for our crypto zombies where we covered payable functions, and how to build DApps that can accept money from players.
+26-Jan-2024 - After taking a short break we have now completed and covering the exciting part about tokens namely ERC721 tokens for our zombies and the methods it uses to ensure that each token item is unique, which is perfect for our zombie characters.
