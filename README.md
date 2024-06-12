@@ -4,7 +4,7 @@
 
 Originally coming from an Oracle HCM Implementation and data analyst background I am now looking to perfect my skills in the Blockchain and Web Developent space
 
-5 Free Learning resources i am currently using to become a smart contract auditor:
+5 Free Learning resources i am currently using to become a smart contract Developer/Auditor:
 
 https://cmichel.io/how-to-become-a-smart-contract-auditor/ <br>
 https://www.youtube.com/watch?v=gyMwXuJrbJQ <br>
