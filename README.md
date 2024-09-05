@@ -1,4 +1,4 @@
-# Alex Khan
+# Alex Khan alexmkhan.com
 
 **`Blockchain Enthusiast (Developer/Auditor/Consultant)`**
 
