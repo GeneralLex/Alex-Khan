@@ -1,8 +1,10 @@
-# Alex Khan alexmkhan.com
+# Alex Khan
 
 **`Blockchain Enthusiast (Developer/Auditor/Consultant)`**
 
 Originally coming from an Oracle HCM Implementation and data analyst background I am now looking to perfect my skills in the Blockchain and Web Developent space
+
+My Portfolio website: https://alexmkhan.com
 
 5 Free Learning resources i am currently using to become a smart contract Developer/Auditor:
 
